@@ -4,6 +4,9 @@
 
 - <b>Password cracker  </b>
   - [Password cracker using a list of common passwords in Python](https://github.com/EmmanuelOladapo1/PasswordCracker.git)
+ 
+- <b>File Integrity Checker </b>
+  - [File integrity Checker  ](https://github.com/EmmanuelOladapo1/File-Integrity-Checker.git)
 
 <h2>🔭Certifications</h2>
 
