@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Oladapo</h1>
-<h3 align="center">🔒🚀 Innovative cybersecurity enthusiast passionate about safeguarding the digital realm. 💻 Embracing a multitude of programming languages and DevOps methodologies, with a focus on cloud security, Governance, Risk, and Compliance (GRC), Threat Intelligence, and Penetration Testing. 🛡️ Committed to leveraging expertise to fortify digital infrastructures and advance the mission of creating a safer online environment for all. Let's collaborate to strengthen cybersecurity defences and pave the way for a more secure digital future!</h3>
+<h3 align="center">🔒🚀 Innovative cybersecurity enthusiast passionate about safeguarding the digital realm. 💻 Embracing a multitude of programming languages and DevOps methodologies, with a focus on cloud security, Governance, Risk, and Compliance (GRC), Threat Intelligence, and Penetration Testing. 🛡️ Committed to leveraging expertise to fortify digital infrastructures and advance the mission of creating a safer online environment for all. Let's collaborate to strengthen cybersecurity defenses and pave the way for a more secure digital future!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emmanueloladapo1&label=Profile%20views&color=0e75b6&style=flat" alt="emmanueloladapo1" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **AI/ Machine learning**
 
-- 🤝 I’m looking for help with [Password-Checker](https://github.com/EmmanuelOladapo1/PasswordChecker.git)
+- 🤝 I’m looking for help with [Password-Checker](https://github.com/EmmanuelOladapo1/PasswordCracker.git)
 
 - 💬 Ask me about **DevOps, GRC and Threat Intelligence, Bash, Python**
 
